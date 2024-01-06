@@ -5,7 +5,7 @@ Welcome to my personal project — the Travel Journal built with React.js using 
 ## Screenshot
 
 <div style="display: flex;">
-  <img src="https://github.com/LucasSuL/my-exercise-react-3-travel-journal/assets/109936384/4205601e-e0fd-4a44-8dca-aca2a7a5fbc2" alt="mobile" height="500px" style="margin-right: 10px;">
+  <img src="https://github.com/LucasSuL/my-exercise-react-3-travel-journal/assets/109936384/4205601e-e0fd-4a44-8dca-aca2a7a5fbc2" alt="mobile" height="500px" style="margin-right: 50px;">
   <img src="https://github.com/LucasSuL/my-exercise-react-3-travel-journal/assets/109936384/dc142c3a-8346-46b1-b117-b4a79b6c42e5" alt="desktop" height="500px">
 </div>
 
